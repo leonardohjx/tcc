@@ -1,7 +1,7 @@
 @charset "utf-8";
 
 body {
-    background: #ffffff url('/image/background-principal.jpg') no-repeat;
+    background: #ffffff url('/image/backgroundPrincipal.jpg') no-repeat;
 }
 
 header {
