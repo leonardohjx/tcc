@@ -10,6 +10,12 @@ body {
     margin: 0px;
 }
 
+div#post {
+    text-decoration: underline;
+    color: blue;
+    text-align: center;
+}
+
 a {
     color: #606060;
     text-decoration: none;
