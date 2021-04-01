@@ -6,8 +6,17 @@ html {
 
 body {
     background-image: url('../image/backgroundPrincipal.jpg');
-    padding: 10px;
+    padding-top: 10px;
     margin: 0px;
+}
+
+a {
+    color: #606060;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
 }
 
 .pagina {
@@ -89,7 +98,7 @@ nav#menu ul {
     list-style: none;
     text-transform: uppercase;
     position: absolute;
-    right: 190px;
+    right: 200px;
     top: -20px;
 }
 
@@ -110,5 +119,5 @@ nav#menu li:hover {
 
 nav#menu a{
     color: white;
-    text-decoration: underline;
+    text-decoration: none;
 }

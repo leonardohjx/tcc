@@ -1,0 +1,28 @@
+@charset "utf-8";
+
+.titulo {
+    font-family: Arial, sans-serif;
+    font-size: 20pt;
+    padding: 0px;
+}
+
+.subtitulo {
+    font-family: Arial, sans-serif;
+    font-size: 10pt;
+    padding: 0px;
+}
+
+.inicio {
+    background-color: white;
+    margin-top: 10px;
+    padding: 1px 5px 5px 10px;
+}
+
+.post {
+    border-bottom: 1px solid lightgray;
+    padding: 5px;
+}
+
+.postfim {
+    padding: 5px;
+}
