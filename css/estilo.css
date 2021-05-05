@@ -103,8 +103,8 @@ nav#menu {
 nav#menu ul {
     list-style: none;
     text-transform: uppercase;
-    position: absolute;
-    right: 200px;
+    position: center;
+    right: 400px;
     top: -20px;
 }
 
