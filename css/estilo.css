@@ -63,14 +63,15 @@ header {
 }
 
 section {
-    background-color: lightblue;
+    background-color: white;
     padding: 1px;
 }
 
 .areas {
-    background-color: white;
+    padding: 10px;
+    background-color: lightblue;
     margin: 30px;
-    border: 5px solid white;
+    border: 1px solid white;
     box-shadow: 1px 1px 3px rgba(0, 0, 0, .4);
     border-radius: 10px;
 }
@@ -78,9 +79,9 @@ section {
 .topicos {
     padding: 10px;
     margin: 10px 10px 10px 10px;
-    border: 5px solid white;
+    border: 1px solid lightblue;
     border-radius: 10px;
-    background-color: lightblue;
+    background-color: white;
 }
 
 footer#rodape {
@@ -98,12 +99,13 @@ footer#rodape p {
 /* Formatação do Menu suspenso */
 nav#menu {
     display: block;
+    align-items: center;
 }
 
 nav#menu ul {
     list-style: none;
     text-transform: uppercase;
-    position: absolute;
+    position: static;
     right: 200px;
     top: -20px;
 }
