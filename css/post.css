@@ -1,7 +1,0 @@
-@charset "utf-8";
-
-div#post a{
-    text-decoration: underline;
-    color: blue;
-    text-align: center;
-}
